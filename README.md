@@ -1,4 +1,4 @@
-# Star Wars API
+# Pomodoro Timer
 
 This is an exercise for Make It Real Bootcamp.
 Made by AlonsoGaray
