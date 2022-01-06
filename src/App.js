@@ -3,8 +3,8 @@ import './App.css';
 import Gear from './img/gear.svg'
 
 const App = () => {
-  const [ minutes, setMinutes ] = useState(0);
-  const [ seconds, setSeconds ] = useState(2);
+  const [ minutes, setMinutes ] = useState(25);
+  const [ seconds, setSeconds ] = useState(0);
   const [ state, setState] = useState(false);
   const [ settings, setSettings ] = useState(false);
 
